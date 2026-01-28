@@ -1,2 +1,2 @@
 # wordle
-Dia 5 
+#   este juego costo 1 millon de dolares
