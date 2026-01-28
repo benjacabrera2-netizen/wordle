@@ -34,3 +34,12 @@ def intentos_player():
         intentos = intentos + 1;
         palabra_ingresada = input("Ingrese una palabra");
         print(f"la palabra ingresada es: {palabra_ingresada}");
+
+# Recorrer lista para mostrar intentos
+
+lista_de_intentos = []
+
+def recorrer_lista(array):
+    for i19 in array:
+        print(i19)
+
